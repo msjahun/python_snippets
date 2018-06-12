@@ -127,3 +127,22 @@ Output Format
 
 Output is taken care of by the template. Your function must return a boolean value (True/False)
 /************************************************
+
+
+python-print-problem.py
+*************************************************
+Read an integer .
+
+Without using any string methods, try to print the following:
+
+
+Note that "" represents the values in between.
+
+Input Format
+
+The first line contains an integer .
+
+Output Format
+
+Output the answer as explained in the task.
+/************************************************
