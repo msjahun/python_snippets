@@ -3,7 +3,7 @@ This is my python snippets repository, you'll find tons of short codes written h
 
 
 *******************************************************
-<h2>helloWorld.py</h2>
+<h3>helloWorld.py</h3>
 
 Here is a sample line of code that can be executed in Python:
 
@@ -26,7 +26,7 @@ Print Hello, World! to stdout.
 
 
 ******************************************
-py-if-else-problem
+<h3>py-if-else-problem</h3>
 
 
 Task 
@@ -51,7 +51,7 @@ Print Weird if the number is weird; otherwise, print Not Weird.
 
 ****************************************
 
-python_arithmetic-operators-problem
+<h3>python_arithmetic-operators-problem</h3>
 Task 
 Read two integers from STDIN and print three lines where:
 
@@ -74,7 +74,7 @@ Print the three lines as explained above.
 
 
 ******************************************
-python-division-problem.py
+<h3>python-division-problem.py</h3>
 Task 
 Read two integers and print two lines. The first line should contain integer division,  // . The second line should contain float division,  / .
 
@@ -93,7 +93,7 @@ Print the two lines as described above.
 
 
 **************************************
-python-loops-problem.py
+<h3>python-loops-problem.py</h3>
 Task 
 Read an integer . For all non-negative integers , print . See the sample for details.
 
@@ -111,7 +111,7 @@ Print  lines, one corresponding to each .
 
 
 ***********************************************
-python-is_leap_year_problem.py
+<h3>python-is_leap_year_problem.py</h3>
 
 We add a Leap Day on February 29, almost every four years. The leap day is an extra, or intercalary day and we add it to the shortest month of the year, February. 
 In the Gregorian calendar three criteria must be taken into account to identify leap years:
@@ -141,7 +141,7 @@ Output is taken care of by the template. Your function must return a boolean val
 
 
 *************************************************
-python-print-problem.py
+<h3>python-print-problem.py</h3>
 
 Read an integer .
 
