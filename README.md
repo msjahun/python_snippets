@@ -1,8 +1,10 @@
 # python_snippets
 This is my python snippets repository, you'll find tons of short codes written here in phython
 
-helloWorld.py
+
 *******************************************************
+helloWorld.py
+
 Here is a sample line of code that can be executed in Python:
 
 print("Hello, World!")
@@ -19,11 +21,14 @@ You do not need to read any input in this challenge.
 Output Format
 
 Print Hello, World! to stdout.
-/******************************************************
+******************************************************
 
 
-py-if-else-problem
+
 ******************************************
+py-if-else-problem
+
+
 Task 
 Given an integer, , perform the following conditional actions:
 
@@ -44,9 +49,10 @@ Print Weird if the number is weird; otherwise, print Not Weird.
 ****************************************************************
 
 
-python_arithmetic-operators-problem
 ****************************************
-ask 
+
+python_arithmetic-operators-problem
+Task 
 Read two integers from STDIN and print three lines where:
 
 The first line contains the sum of the two numbers.
@@ -63,11 +69,12 @@ Constraints
 Output Format
 
 Print the three lines as explained above.
-/*****************************************
+*****************************************
 
 
-python-division-problem.py
+
 ******************************************
+python-division-problem.py
 Task 
 Read two integers and print two lines. The first line should contain integer division,  // . The second line should contain float division,  / .
 
@@ -81,11 +88,12 @@ Output Format
 
 Print the two lines as described above.
 
-/*****************************************
+*****************************************
 
 
-python-loops-problem.py
+
 **************************************
+python-loops-problem.py
 Task 
 Read an integer . For all non-negative integers , print . See the sample for details.
 
@@ -99,10 +107,12 @@ Constraints
 Output Format
 
 Print  lines, one corresponding to each .
-/****************************************
+****************************************
 
-python-is_leap_year_problem.py
+
 ***********************************************
+python-is_leap_year_problem.py
+
 We add a Leap Day on February 29, almost every four years. The leap day is an extra, or intercalary day and we add it to the shortest month of the year, February. 
 In the Gregorian calendar three criteria must be taken into account to identify leap years:
 
@@ -126,11 +136,13 @@ Constraints
 Output Format
 
 Output is taken care of by the template. Your function must return a boolean value (True/False)
-/************************************************
+************************************************
 
 
-python-print-problem.py
+
 *************************************************
+python-print-problem.py
+
 Read an integer .
 
 Without using any string methods, try to print the following:
@@ -145,4 +157,4 @@ The first line contains an integer .
 Output Format
 
 Output the answer as explained in the task.
-/************************************************
+************************************************
